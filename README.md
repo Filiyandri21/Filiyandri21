@@ -1,79 +1,61 @@
-<!-- Header Animasi -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Setiyo+Filiyandri!;Fullstack+Web+%26+Java+Developer;Welcome+to+my+GitHub+Kingdom+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h1 align="center">Setiyo Filiyandri</h1>
+<h3 align="center">🌐 Mahasiswa | Web Developer | Coding Enthusiast</h3>
 
-<!-- Foto Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Filiyandri21/Filiyandri21/main/assets/banner.jpg" width="80%" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+learning+web+development.;Love+PHP,+HTML,+CSS,+JS&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🎮 Tentang Saya
-
-
-🧑 Nama     : Setiyo Filiyandri
-💻 Skill    : Java, JS, HTML, CSS, Bootstrap, Laravel, MySQL
-🎯 Level    : 99% ngoding, 1% galau
-🔥 Motto    : Kalo error, ngopi dulu ☕
-
+### 🧠 Tentang Saya
+- 🎓 Mahasiswa yang sedang belajar dunia web development  
+- 💻 Fokus pada PHP, JavaScript, HTML, dan CSS  dll.
+- 🔭 Ingin menguasai Laravel dan membuat aplikasi web keren  
+- ⚡ Hobi: ngoding, ngopi, dan main game 🕹️  
 
 ---
 
-## 🛠 Teknologi Favorit
+### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql,laravel,vscode,github" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Project Unggulan
-
-- ✨ Website Pribadi  
-- 🛠 Tiga Bintang Teknik Purwokerto  
-- 🏍 Masji Motorcycle  
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Filiyandri21&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiyandri21&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=setiyo&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyo&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-## 🐍 Game Ular: Kontribusi yang Dimakan!
+### 🎮 Play Snake Game on My GitHub!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Filiyandri21/Filiyandri21/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+> 🐍 *Animasi ular ini merayap di graph kontribusimu setiap hari!*  
+> ➤ Powered by [Platane/snk](https://github.com/Platane/snk)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/setiyo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/setiyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/setiyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-## 📈 Activity Graph
+### ⚡ Fun Fact
+> Aku ngoding lebih lancar setelah ngopi ☕ dan pakai playlist lo-fi beats 🎶
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Filiyandri21&theme=tokyo-night" />
-</p>
-
----
-
-## 🌐 Kontak Saya
-
-<p align="center">
-  <a href="mailto:setiyofiliyandri09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://tiktok.com/@yourtiktok"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://instagram.com/yourinsta"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
-</p>
-
----
-
-## 👁 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Filiyandri21&style=flat-square&color=blue" />
-</p>
