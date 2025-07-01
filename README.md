@@ -1,66 +1,68 @@
-
-<h1 align="center">🎮 Welcome to Setiyo's Game Hub 🎮</h1>
-<h3 align="center">🧑‍💻 Mahasiswa | Web Dev | Gamer | PHP & JS Lover</h3>
-
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Unlocking+Level+Upgrades...;Coding+like+playing+games+🎮;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&multiline=true&width=435&lines=Hi%2C+I'm+Setiyo+Filiyandri!;Fullstack+Developer+%7C+Tech+Lover+%7C+Auto+Joki+Skripsi+😄;Welcome+to+my+GitHub+Kingdom!+🚀" alt="Typing SVG" />
+</p>
+
+<!-- Banner Foto -->
+<p align="center">
+  <img src="https://github.com/Filiyandri21/Filiyandri21/blob/main/assets/banner.jpg" width="70%" />
 </p>
 
 ---
 
-### 🕹️ Mini Games on My GitHub Profile
+## 🧑‍💻 Tentang Saya
 
-#### 🐍 Snake Game (Animated GitHub Contribution Graph)
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake game">
-</p>
-
-> 🐍 Snake merayap di aktivitas kontribusiku! Powered by [Platane/snk](https://github.com/Platane/snk)
+Hai, saya *Setiyo Filiyandri* – manusia biasa yang koding waktu sempat, tidur waktu error.  
+Ngoding bukan karena bisa, tapi karena deadline udah lewat 3 hari. 🤯  
+Kalau skripsi ngadat, ya saya utak-atik CRUD-nya dulu biar adem 😎
 
 ---
 
-#### 🚀 Fake Mini-Game Console UI
-
-```
-🧠 Mission: Belajar Fullstack Web Dev  
-🕹️ Skill Points: PHP +15 | JS +10 | HTML/CSS +8  
-📦 Inventory: VS Code, GitHub, MySQL  
-🏆 Rank: Student Developer  
-```
-
----
-
-### 📦 Tech Stack
+## 🚀 Teknologi & Tools yang Saya Gunakan
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql,laravel,vscode,git,github" />
 </p>
 
 ---
 
-### 📊 Game Dashboard (GitHub Stats)
+## 🌟 Proyek Unggulan
+
+- 🔧 [Website Pribadi](#) — tempat curhat digital & pamer portofolio 😁  
+- 🛠 *Tiga Bintang Teknik Purwokerto* — Sistem toko sparepart  
+- 🏍 *Masji Motorcycle* — Sistem penjualan motor & service berkala
+
+---
+
+## 📈 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setiyo&show_icons=true&theme=gruvbox&rank_icon=github" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyo&layout=compact&theme=gruvbox" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Filiyandri21&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiyandri21&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
 
 ---
 
-### 🎯 Social Media Quests
+## 🔥 Aktivitas GitHub
 
 <p align="center">
-  <a href="https://instagram.com/setiyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@setiyo" target="_blank"><img src="https://img.shields.io/badge/TikTok-010101?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-  <a href="https://facebook.com/setiyo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Filiyandri21&theme=dracula" />
 </p>
 
 ---
 
-### ⚡ Fun Developer Fact
+## 📱 Sosial Media
 
-> Ngoding itu seperti game RPG: naik level, farming bug, dan akhirnya boss fight = deploy 🚀
+<p align="center">
+  <a href="mailto:setiyofiliyandri09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://tiktok.com/@yourtiktok" target="_blank"><img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok" /></a>
+  <a href="https://instagram.com/yourinsta" target="_blank"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" /></a>
+</p>
+
+---
+
+## 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Filiyandri21&style=flat-square&color=blue" alt=""/>
+</p>
