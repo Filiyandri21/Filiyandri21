@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Setiyo Filiyandri</h1>
-<h3 align="center">💻 Mahasiswa & Web Developer from Indonesia</h3>
+<h1 align="center">Hi there 👋, I'm Setiyo</h1>
+<h3 align="center">🌐 Mahasiswa | Web Developer | Coding Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I'm+learning+and+building+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I'm+learning+web+development.;Love+PHP,+HTML,+CSS,+JS&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 🧑‍🎓 Tentang Saya
-- 🔭 Saya sedang belajar membangun aplikasi web menggunakan **PHP, HTML, CSS, dan JavaScript**  
-- 🌱 Sedang mendalami framework seperti **Laravel** dan **Bootstrap**  
-- 📫 Email: seiyofiliyandri09@gmail.com *(ganti dengan email kamu)*  
-- ⚡ Fun fact: Saya suka ngoding kalo lagi suka hehe ☕  
+### 🧠 Tentang Saya
+- 🎓 Mahasiswa yang sedang belajar dunia web development  
+- 💻 Fokus pada PHP, JavaScript, HTML, dan CSS  
+- 🔭 Ingin menguasai Laravel dan membuat aplikasi web keren  
+- ⚡ Hobi: ngoding, ngopi, dan main game 🕹️  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -29,14 +29,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=setiyo&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyo&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=setiyo&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiyo&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
-### 🔗 Temukan Saya di:
-<p>
-  <a href="https://www.linkedin.com/in/setiyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/setiyoflynri_?utm_source=qr&igsh=MWp6bWxvbjNtaHppeQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+### 🎮 Play Snake Game on My GitHub!
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
+> 🐍 *Animasi ular ini merayap di graph kontribusimu setiap hari!*  
+> ➤ Powered by [Platane/snk](https://github.com/Platane/snk)
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/setiyo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/setiyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/setiyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+> Aku ngoding lebih lancar setelah ngopi ☕ dan pakai playlist lo-fi beats 🎶
+
