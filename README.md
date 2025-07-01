@@ -1,27 +1,27 @@
-<!-- Pusatkan header animasi -->
+<!-- Header Animasi -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Setiyo+Filiyandri!;Java+%7C+Web+Developer+%7C+CRUD+Master;Welcome+to+my+code+arena+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Setiyo+Filiyandri!;Fullstack+Web+%26+Java+Developer;Welcome+to+my+GitHub+Kingdom+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- Banner Gambar -->
+<!-- Foto Banner -->
 <p align="center">
-  <img src="https://github.com/Filiyandri21/Filiyandri21/raw/main/assets/banner.jpg" alt="Banner" width="80%" />
-</p>
-
----
-
-## 🎮 About Me (a bit like a character card)
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Filiyandri21&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://raw.githubusercontent.com/Filiyandri21/Filiyandri21/main/assets/banner.jpg" width="80%" />
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 🎮 Tentang Saya
+
+
+🧑 Nama     : Setiyo Filiyandri
+💻 Skill    : Java, JS, HTML, CSS, Bootstrap, Laravel, MySQL
+🎯 Level    : 99% ngoding, 1% galau
+🔥 Motto    : Kalo error, ngopi dulu ☕
+
+
+---
+
+## 🛠 Teknologi Favorit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,bootstrap,mysql,laravel,vscode,github" />
@@ -29,11 +29,27 @@
 
 ---
 
-## 🔥 GitHub Stats & Language
+## 🚀 Project Unggulan
+
+- ✨ Website Pribadi  
+- 🛠 Tiga Bintang Teknik Purwokerto  
+- 🏍 Masji Motorcycle  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Filiyandri21&show_icons=true&theme=tokyonight&hide_border=true" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Filiyandri21&layout=compact&theme=tokyonight&hide_border=true" width="47%" />
+</p>
+
+---
+
+## 🐍 Game Ular: Kontribusi yang Dimakan!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Filiyandri21/Filiyandri21/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </p>
 
 ---
@@ -46,17 +62,7 @@
 
 ---
 
-## 📂 Project Showcase
-
-- 🔧 *Website Pribadi*  
-- 🛠 *Tiga Bintang Teknik Purwokerto*  
-- 🏍 *Masji Motorcycle*
-
-> Semua project dibuat dengan hati, diuji dengan kopi ☕.
-
----
-
-## 🌐 Connect With Me
+## 🌐 Kontak Saya
 
 <p align="center">
   <a href="mailto:setiyofiliyandri09@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -69,5 +75,5 @@
 ## 👁 Visitor Count
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Filiyandri21&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Filiyandri21&style=flat-square&color=blue" />
 </p>
