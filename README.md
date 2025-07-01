@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Setiyo</h1>
+<h1 align="center">Hi 👋, I'm Setiyo Filiyandri</h1>
 <h3 align="center">💻 Mahasiswa & Web Developer from Indonesia</h3>
 
 <p align="center">
@@ -10,8 +10,8 @@
 ### 🧑‍🎓 Tentang Saya
 - 🔭 Saya sedang belajar membangun aplikasi web menggunakan **PHP, HTML, CSS, dan JavaScript**  
 - 🌱 Sedang mendalami framework seperti **Laravel** dan **Bootstrap**  
-- 📫 Email: setiyo@example.com *(ganti dengan email kamu)*  
-- ⚡ Fun fact: Saya suka ngoding larut malam sambil ngopi ☕  
+- 📫 Email: seiyofiliyandri09@gmail.com *(ganti dengan email kamu)*  
+- ⚡ Fun fact: Saya suka ngoding kalo lagi suka hehe ☕  
 
 ---
 
@@ -38,5 +38,5 @@
 ### 🔗 Temukan Saya di:
 <p>
   <a href="https://www.linkedin.com/in/setiyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/setiyo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/setiyoflynri_?utm_source=qr&igsh=MWp6bWxvbjNtaHppeQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
